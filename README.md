@@ -20,8 +20,7 @@ I'll explain each step in details below.
 
 ## **Environement:**
 ---
-- Windows 7
-- Anaconda 4.3.29
+- Google Colab
 - Python 3.6.2
 - OpenCV 3.1.0
 
